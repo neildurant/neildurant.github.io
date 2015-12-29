@@ -1,0 +1,25 @@
+html, body
+{
+    height: 100%;
+}
+
+html
+{
+    display: table;
+    margin: auto;
+}
+
+body
+{
+    font-family: Sans-Serif;
+    font-size: 120%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+p
+{
+    color: #FFFFFF;
+    text-align: center;
+}
+
